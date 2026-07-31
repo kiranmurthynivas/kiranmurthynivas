@@ -58,7 +58,7 @@ I'm a Full Stack Developer working across **React.js, Node.js, Express.js, and M
 
 ### 💼 Experience
 
-**Research Analyst** · Concentrix, Bengaluru · *Aug 2025 – Sep 2025*
+**Research Analyst** · Concentrix, Bengaluru · *July 2025 – Sep 2025*
 - Analyzed user engagement and viewing-pattern data to surface churn signals and retention insights
 - Delivered structured reports that informed customer acquisition and onboarding decisions
 - Translated data findings into process improvements adopted by cross-functional teams
