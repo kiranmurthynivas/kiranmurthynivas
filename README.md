@@ -137,6 +137,16 @@ AI-powered recipe generator built in a live hackathon setting — placed 1st amo
 
 ---
 
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/kiranmurthynivas/kiranmurthynivas/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 **Open to full-time opportunities — let's talk if you're hiring.**
