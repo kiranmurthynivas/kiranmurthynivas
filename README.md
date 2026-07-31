@@ -71,7 +71,7 @@ I'm a Full Stack Developer working across **React.js, Node.js, Express.js, and M
 <tr>
 <td width="50%" valign="top">
 
-**🆘 [SUKSHA — Women Safety App](https://github.com/kiranmurthynivas)**
+**🆘 [SUKRAKSHA — Women Safety App](https://github.com/kiranmurthynivas)**
 <br/><sub>React.js · Node.js · Express.js · MongoDB</sub>
 
 Real-time SOS alerts with live GPS sharing to trusted contacts and JWT-authenticated role-based access. Backend notifications for emergency events, built and tested using Cursor and Postman.
