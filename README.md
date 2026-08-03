@@ -136,6 +136,16 @@ AI-powered recipe generator built in a live hackathon setting — placed 1st amo
 </div>
 
 ---
+### 📈 Activity Timeline
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiranmurthynivas&theme=react-dark&bg_color=1e1b4b&color=a5b4fc&line=a5b4fc&point=ffffff&hide_border=true)
+
+</div>
+
+---
+
 
 ### 🐍 Contribution Graph
 
