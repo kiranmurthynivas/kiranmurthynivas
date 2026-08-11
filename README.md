@@ -125,17 +125,6 @@ AI-powered recipe generator built in a live hackathon setting — placed 1st amo
 **PUC (PCMB)** · Vidhya Jyothi PU College · 2020–2022 · 85.6%
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kiranmurthynivas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmurthynivas&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8"/>
-
-</div>
-
----
 ### 📈 Activity Timeline
 
 <div align="center">
